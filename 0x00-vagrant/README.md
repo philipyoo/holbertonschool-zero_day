@@ -1,3 +1,7 @@
-# Exercise Description
+# 0x00. Vagrant
 
-Load up Vagrant VM and write result of `uname` command to file **0-hello_ubuntu**
+This directory contains exercises/projects completed for learning about Vagrant.
+
+| File | Description |
+| ---- |:-----------:|
+| 0-hello_ubuntu | Write the result of `uname` in VM |
